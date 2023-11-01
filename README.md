@@ -12,6 +12,10 @@
 
 ## General
 
+
 ## Technologies
 
 ## Glimpse 
+
+## How to Run
+### Locally
