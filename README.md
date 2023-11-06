@@ -3,7 +3,7 @@
 
 ## Table of Content
 - [General](#general)
-- [Technologies Used](#technologiesused)
+- [Technologies Used](#technologies)
 - [Glimpse](#glimpse)
 - How to Run
   - Locally
