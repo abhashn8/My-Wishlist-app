@@ -3,8 +3,8 @@
 
 ## Table of Content
 - [General](#general)
-- Technologies Used
-- Glimpse
+- [Technologies Used](#technologiesused)
+- [Glimpse](#glimpse)
 - How to Run
   - Locally
   - Live Demo
