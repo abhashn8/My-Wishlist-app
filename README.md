@@ -16,7 +16,6 @@
 ## General
 
 
-
 ## Technologies
 
 ## Glimpse 
