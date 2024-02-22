@@ -18,6 +18,5 @@
 
 ## Glimpse 
 
-
 ## How to Run
 ### Locally
